@@ -4,7 +4,7 @@
 ### 🤖 Senior Full-Stack Developer & Generative AI Engineer
 **Driving enterprise value at the intersection of robust MERN/MEAN architectures and Agentic AI.**
 
-Location: Gurugram, Haryana, India 📍  
+Location: Haryana, India 📍  
 Email: rishabh.prakash42@gmail.com 📧
 
 ---
