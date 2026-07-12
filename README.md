@@ -1,68 +1,102 @@
-![coding](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 
-# Hi there! ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm RISHABH PRAKASH
+# Hi there! I'm RISHABH PRAKASH 👋 
 
-**💻 Full-Stack Developer | 🌐 MEAN & MERN Enthusiast | 🤖 AI Explorer**
+### 🤖 Senior Full-Stack Developer & Generative AI Engineer
+**Driving enterprise value at the intersection of robust MERN/MEAN architectures and Agentic AI.**
 
----
-
-### 👨‍💻 About Me
-
-I'm a passionate **Full-Stack Developer** with expertise in building dynamic and scalable web applications. I focus on developing both the **frontend** and **backend** using modern technologies like the **MEAN** and **MERN** stacks. Alongside full-stack development, I have a growing interest in **AI** and **machine learning**, particularly with **Azure AI** and cloud-based AI services.
+Location: Gurugram, Haryana, India 📍  
+Email: rishabh.prakash42@gmail.com 📧
 
 ---
 
-### 🔧 Tech Stack
+## 📊 Developer Dashboard
 
-#### 🚀 **Frontend**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🛠 **Backend**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-#### ☁️ **Cloud & DevOps**
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-#### 🤖 **AI & Machine Learning**
-- ![Azure AI](https://img.shields.io/badge/Azure%20AI-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+| Metric | Details |
+| :--- | :--- |
+| **⚡ Total Experience** | **6.5+ Years** of building enterprise JavaScript architectures |
+| **🤖 Core Focus** | Generative AI, RAG Pipelines, Agentic Workflows, & Microservices |
+| **🌐 Web Frameworks** | React.js (16+), Angular (17+), Node.js, Nest.js, FastAPI |
+| **☁️ Cloud Landscape** | Microsoft Azure (Certified AI Engineer Associate), AWS |
 
 ---
 
-### 🚀 Featured Projects
+## 🛠 Modern Tech Stack
 
-- **[Shopping Website with NGRX](https://github.com/RAUNI-RISHABH/angular-ngrx-handson.git)**: Full-stack web application built with the **MEAN** stack.
-- **[Food Delivery Web Application](https://github.com/RAUNI-RISHABH/learn_react.git)**: Building A food delivery web application using **MERN** stack.
-  
+### 🚀 Generative AI & Intelligent Systems
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
+![Azure AI Studio](https://img.shields.io/badge/Azure%20AI%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-000000?style=flat-square&logo=databricks&logoColor=white)
+
+### 💻 Frontend Engineering
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular%2017+-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20/%20Zustand-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & System Design
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### ☁️ Cloud, DevOps & Architectures
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%20/%20CD-CD2C2C?style=flat-square&logo=githubactions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices%20--%20Event%20Driven-0052CC?style=flat-square)
+
 ---
 
-### 💡 What I'm Currently Learning
-- Exploring AI technologies with **Azure AI** 🤖
-- Diving deeper into **React**, **Angular 18** and **Node** for modern UI development 🌐
+## 📈 Proven Impact & Key Metrics
+
+> **Senior Software Developer (Full Stack & Gen AI) @ Infosys Limited** *(Nov 2023 - Present)*
+* **80% Productivity Surge:** Architected a multi-agent solution automating critical phases of the SDLC.
+* **Production RAG Architectures:** Built an enterprise Knowledge Management Assistant using Azure OpenAI (GPT-4) and Azure AI Search, scaling handling capabilities to **10,000+ complex documents**.
+* **High-Concurrency Systems:** Structured high-throughput microservices using Node.js/Nest.JS and Python/FastAPI to minimize response latency and hallucinations.
+
+> **Software Developer (Full Stack) @ Quantiphi Analytics** *(June 2021 - Nov 2023)*
+* Scaled backend microservices to handle **10,000+ concurrent requests** under high enterprise traffic.
+* Optimized UI metrics via aggressive code-splitting, bundle reduction, and lazy-loading.
+* Mentored **20+ developers** and led core technological interview tracks.
 
 ---
 
-### 📫 Let's Connect!
+## 🏆 Certifications & Recognition
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishabh-prakash-76636aa6)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RAUNI-RISHABH)
-
+* 🥇 **Microsoft Certified:** Azure AI Engineer Associate (AI-102)
+* 🥈 **Microsoft Certified:** Azure Fundamentals (AZ-900)
+* 🎓 **Infosys Certified Professional:** Generative AI
+* 🚀 **Awards:** Rookie of the Quarter (*Infosys*), Synergetic Perfection Award (*Quantiphi*), Think Tanker Award
 
 ---
 
-### 💡 Just Some Random Thoughts Of A Programmer
-![Thoughts](https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1MzYyNDQsIm5iZiI6MTcyNzUzNTk0NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDE1MDU0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxNzJkZWVlMjllNGMzNDkxODAyMjY5ZDVmMDQ2OTM2ZTUwNTNhYWYzNWJjNTI4NmZkN2UzYzM0ZTE5NTQ0M2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8EAyEIMt1snP1GrFNnEFyyryiJ1AtYNLxmOP_ntUm-0)
+## 🚀 Featured Portals & Projects
+
+* 🛍️ **[Enterprise Shopping Hub](https://github.com/RAUNI-RISHABH/angular-ngrx-handson.git)**: Highly scalable full-stack web application implementing robust state management with **MEAN & NgRx**.
+* 🛵 **[Food Delivery Portal](https://github.com/RAUNI-RISHABH/learn_react.git)**: Deep-dive architecture exploring real-time location streaming and modular UI components using the **MERN stack**.
+
+---
+
+## ⚙️ GitHub Ecosystem Stats
+
+| Git Activity | Language Breakdown |
+| :---: | :---: |
+| ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAUNI-RISHABH&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNI-RISHABH&layout=compact&theme=radical&hide_border=true) |
+
+---
+
+## 📫 Let's Collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rishabh-prakash-76636aa6)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAUNI-RISHABH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Global-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rauni-rishabh.github.io)
 
 
-
+```
